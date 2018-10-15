@@ -13,6 +13,6 @@ Develop environment.
 You can watch how to make it in my youtube channel and blog !
 
 - Youtube link : https://youtu.be/ULScC0TmDlc
-- Blog post link : 
+- Blog post link : https://loydlab.blogspot.com/2018/10/swift-4-rest-ful-api-with-json.html
 
 Thank you :)
